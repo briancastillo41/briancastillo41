@@ -2,7 +2,7 @@
 - 👀 I’m interested in travel
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on app development
-- 
+  
 
   
 
